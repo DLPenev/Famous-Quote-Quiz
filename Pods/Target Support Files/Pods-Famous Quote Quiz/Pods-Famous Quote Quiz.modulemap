@@ -1,0 +1,6 @@
+framework module Pods_Famous_Quote_Quiz {
+  umbrella header "Pods-Famous Quote Quiz-umbrella.h"
+
+  export *
+  module * { export * }
+}
